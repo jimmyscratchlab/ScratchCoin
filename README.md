@@ -9,5 +9,5 @@ Teaching children about bitcoin.
 Promote interesting bitcoin initiatives in Scratch programming community.
 
 
-If you found this information helpful, please donate to :
+If you found this project helpful, please donate to :
 1BNLHQrtfvEN6dyXiJRkMxj5xUUTB2kodD
