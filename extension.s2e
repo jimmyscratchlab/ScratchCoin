@@ -1,0 +1,17 @@
+{ 
+	"extensionName": "ScratchCoin",
+	"extensionPort": 8080,
+	"useHTTP": true,
+	"blockSpecs": [
+		[" ", "testnet", "testnet"],
+		[" ", "get received by address %s", "getreceivedbyaddress", ""],
+		["r", "received by address %s", "addressreceived"],
+		[" ", "get balance of an address %s", "addressbalance", ""],
+		["r", "addressbalance %s", "addressbalance", ""],
+		[" ", "update BTC to USD Rate", "updateUSDRate", ""],
+		["r", "1BTC to %m.currencycode", "exchangerate", "USD"],
+	],
+        "menus": {
+            "currencycode": ["USD"],
+        },
+}
